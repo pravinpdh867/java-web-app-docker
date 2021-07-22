@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h2>Welcome To PRAVIN PADHYE, GANDHIBAGH, NAGPUR 440018.</h2>
+			<h3>Contact @ +91-9579060217 ,+91-7720044458</h3>
 		</div>	
 	</div>
 
