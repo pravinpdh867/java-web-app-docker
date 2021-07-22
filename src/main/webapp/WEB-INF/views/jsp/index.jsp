@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To PRAVIN PADHYE, GANDHIBAGH, NAGPUR 440018.</h2>
+			<h2>Welcome To VAISHNAVI PRAVIN PADHYE, GANDHIBAGH, NAGPUR 440018.</h2>
 			<h3>Contact @ +91-9579060217 ,+91-7720044458</h3>
 		</div>	
 	</div>
